@@ -1,0 +1,17 @@
+.quizNextQuestionButton {
+  box-sizing: border-box;
+  width: max-content;
+  height: 40px;
+  margin: 5px 0;
+  background-color: #f5f6fa;
+  font-size: 1.1rem;
+  font-family: inherit;
+  padding: 5px 15px;
+  border: 3px solid #596275;
+  border-radius: 5px;
+}
+
+.quizNextQuestionButton:hover {
+  border-width: 4px;
+  border-color: #303952;
+}

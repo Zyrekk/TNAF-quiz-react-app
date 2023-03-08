@@ -1,0 +1,23 @@
+.quizContainer {
+  box-sizing: border-box;
+  background-color: #f7d794;
+  border-radius: 15px;
+  padding: 25px;
+  width: 50%;
+  min-height: 40%;
+}
+
+.quizHeader {
+  font-weight: 500;
+  font-size: 1.2em;
+}
+
+.quizButtonRow {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button{
+  display: flex;
+  justify-content: flex-end;
+}
